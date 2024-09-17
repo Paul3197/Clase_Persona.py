@@ -36,12 +36,9 @@ Pedro = Persona(nombre="Pedro", edad=18)
 print(Juan.saludar())
 print(Pedro.saludar())
 ```
+**Salida**
+Hola me llamo `Juan` y tengo `12` años
+Hola me llamo `Pedro` y tengo `18` años
 
-## **Salida Esperada**
-El código anterior imprimirá:
-
-Hola me llamo `Juan` y tengo `12 años`
-Hola me llamo `Pedro` y tengo `18 años`
-
-## 🛠️ **Requisitos**
-Este proyecto no requiere dependencias adicionales. Solo necesitas Python instalado en tu máquina para ejecutar el código.
+# 🛠️ **Requisitos**
+Este proyecto no requiere dependencias adicionales. Solo necesitas tener Python instalado en tu máquina para ejecutar el código.
